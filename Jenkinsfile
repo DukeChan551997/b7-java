@@ -1,5 +1,7 @@
 pipeline {
-
+  tools{
+          maven 'm395'
+        }
 	agent any
 	stages{   
 		
