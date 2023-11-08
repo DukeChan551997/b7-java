@@ -1,11 +1,3 @@
-hi....hi i am chandan
+hi...
 
-for pipeline
 
-new
-gfdsa
-hiii
-hiiidsadsadfghjkl;'
-hiiii
-zx
-fds
