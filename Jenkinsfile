@@ -1,8 +1,8 @@
 pipeline {
-  tools{
-          maven 'm395'
-        }
-	agent any
+
+	agent {
+		lable 'chandan'
+	}
 	stages{   
 		
 		stage(install){
