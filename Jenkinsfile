@@ -1,7 +1,7 @@
 pipeline {
 
-	agent {
-		lable 'chandan'
+	agent  {
+		label 'chandan'
 	}
 	stages{   
 		
