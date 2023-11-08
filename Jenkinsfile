@@ -1,7 +1,7 @@
 pipeline {
 
 	agent  {
-		label 'chandan'
+		label 'test'
 	}
 	stages{   
 		
